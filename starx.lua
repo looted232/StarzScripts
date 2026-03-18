@@ -6,7 +6,7 @@ if placeId == 109983668079237 then
 
 -- Escape Tsunami script (ID: 131623223084840)
 elseif placeId == 131623223084840 then
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/VdZoa9141NqriLD6/raw"))()
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/P658eR8od4vcubdG/raw"))()
 
 else
     print("Unsupported game")
