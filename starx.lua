@@ -2,7 +2,7 @@ local placeId = game.PlaceId
 
 -- SAB script
 if placeId == 109983668079237 then
-    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/IKOfOfXqTloz9YC2/raw"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/eZprqmxmIP/0"))()
 
 -- Escape Tsunami script
 elseif placeId == 131623223084840 then
